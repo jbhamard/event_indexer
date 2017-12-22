@@ -1,0 +1,10 @@
+{
+  "uid": "customers",
+  "label": "CustomersX",
+  "attributes": {
+    "guest_user":{
+      "key_0":0,
+      "key_1":"one"
+    }
+  }
+}
